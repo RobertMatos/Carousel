@@ -1,2 +1,2 @@
-# Corousel
+# Carousel
  Caurousel in CSS
