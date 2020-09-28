@@ -1,2 +1,2 @@
 # Corousel
- Courel in CSS
+ Caurousel in CSS
